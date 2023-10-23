@@ -1,0 +1,47 @@
+:root {
+  --main_bg-color: #e9f0ee;
+  --cont_bg-color: #d0d0d0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 5vh;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--main_bg-color);
+}
+
+h1 {
+  top: 0;
+  position: absolute;
+}
+
+img {
+  width: 600px;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+.container div {
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--cont_bg-color);
+  margin: 15px;
+  padding: 50px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.5);
+}

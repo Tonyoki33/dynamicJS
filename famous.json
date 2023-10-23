@@ -1,0 +1,40 @@
+{
+     "people": [
+        {
+            "id":0,
+            "first_name": "Jordi",
+            "last_name": "Wilde",
+            "search": "?name=jordiwild",
+            "img": "https://img.asmedia.epimg.net/resizer/2x6EXhper_XPQ-DiUPICk1_rA-4=/1472x1104/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/FE546JD3HRHKFO6CFVFSIQMWDI.webp"
+        },
+        {
+            "id":1,
+            "first_name": "Javier",
+            "last_name": "Milei",
+            "search": "?name=javiermilei",
+            "img": "https://phantom-expansion.unidadeditorial.es/2e7300fc3beaf343060dfd86c9ac1a4d/crop/2x0/2046x1363/resize/414/f/jpg/assets/multimedia/imagenes/2023/10/21/16979166568035.jpg"
+        },
+        {
+            "id":2,
+            "first_name": "Charly",
+            "last_name": "Garcia",
+            "search": "?name=charlygarcia",
+            "img": "https://fotos.perfil.com/2020/05/14/trim/1140/641/charly-garcia-956521.jpg"
+        },
+        {
+            "id":3,
+            "first_name": "Luca",
+            "last_name": "Prodan",
+            "search": "?name=lucaprodan",
+            "img": "https://media.diariouno.com.ar/p/f5cf94bcfc18424ed8885501df30e807/adjuntos/298/imagenes/009/093/0009093616/1200x0/smart/capturajpg.jpg"
+        },
+        {
+            "id":4,
+            "first_name": "Diego",
+            "last_name": "Maradona",
+            "search": "?name=diegomaradona",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Maradona-Mundial_86_con_la_copa.JPG/272px-Maradona-Mundial_86_con_la_copa.JPG"
+        }
+     ] 
+
+ }
