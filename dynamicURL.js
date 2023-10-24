@@ -1,6 +1,6 @@
 const urlParams = new URLSearchParams(window.location.search);
 const personId = urlParams.get("id");
-
+console.log(`urlParams ${urlParams} personId ${personId}`);
 fetch("./famous.json")
   .then((resp) => resp.json())
   .then((data) => {
