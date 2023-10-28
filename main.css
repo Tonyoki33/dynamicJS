@@ -71,3 +71,18 @@ img {
   height: 50px;
   cursor: pointer;
 }
+
+.purchase_btn {
+  width: 10vw;
+  height: 5vh;
+  position: relative;
+  cursor: pointer;
+}
+
+.nav__txt-on {
+  visibility: visible;
+}
+
+.nav__txt-off {
+  visibility: hidden;
+}
